@@ -1,0 +1,2 @@
+Adam;Nowak;Kierowca
+Jan;Kowalski;Murarz
